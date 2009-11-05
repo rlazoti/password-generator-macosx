@@ -1,0 +1,210 @@
+TApplication1
+v7
+r0
+t279073626.284476
+cCheck dependencies
+cProcessInfoPlistFile /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Info.plist Info.plist
+cStripNIB /Users/rodrigolazoti/Projects/Screencasts/Application1/English.lproj/MainMenu.nib
+cCopyStringsFile /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCpResource build/Debug/Application1.app/Contents/Resources/rb_main.rb rb_main.rb
+cCpResource build/Debug/Application1.app/Contents/Resources/PasswordGenerator.rb PasswordGenerator.rb
+cCpResource build/Debug/Application1.app/Contents/Resources/MainView.rb MainView.rb
+cCompileC build/Application1.build/Debug/Application1.build/Objects-normal/i386/main.o /Users/rodrigolazoti/Projects/Screencasts/Application1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/MacOS/Application1 normal i386
+cTouch /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004AB44D2500000000000000EE
+t1253330213
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/RubyCocoa.framework/Headers/RBRuntime.h
+c0000000047BB26B300000000000005C0
+t1203447475
+s1472
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/System/Library/Frameworks/RubyCocoa.framework/RubyCocoa
+c000000004A11F42400000000000850F0
+t1242690596
+s545008
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/English.lproj/InfoPlist.strings
+c000000004AF21BC500000000000001BC
+t1257380805
+s444
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/English.lproj/MainMenu.nib
+c000000004A967DA40000000000000088
+t1251376548
+s136
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/MainView.rb
+c000000004AF21B810000000000000150
+t1257380737
+s336
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/PasswordGenerator.rb
+c000000004AF21B58000000000000016C
+t1257380696
+s364
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Application1.build/Debug/Application1.build/Objects-normal/i386/Application1.LinkFileList
+c000000004AF21BD90000000000000084
+t1257380825
+s132
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Application1.build/Debug/Application1.build/Objects-normal/i386/main.o
+t1257380826
+s4956
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app
+t1257380826
+s102
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Info.plist
+t1257380825
+s796
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/MacOS/Application1
+t1257380826
+s13148
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/PkgInfo
+t1257380825
+s8
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1257380825
+s444
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Resources/English.lproj/MainMenu.nib
+t1257380825
+s20534
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Resources/MainView.rb
+t1257380825
+s336
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Resources/PasswordGenerator.rb
+t1257380825
+s364
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Resources/rb_main.rb
+t1257380825
+s490
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/main.m
+c000000004AF21B900000000000000128
+t1257380752
+s296
+i<Cocoa/Cocoa.h>
+i<RubyCocoa/RBRuntime.h>
+
+N/Users/rodrigolazoti/Projects/Screencasts/Application1/rb_main.rb
+c000000004AF21B9F00000000000001EA
+t1257380767
+s490
+
+NInfo.plist
+c000000004A967C980000000000000355
+t1251376280
+s853
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies279073625#279073625#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/Application1.build/Debug/Application1.build/Objects-normal/i386/main.o /Users/rodrigolazoti/Projects/Screencasts/Application1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279073625.587247
+e279073626.250812
+r1
+xCompileC
+xbuild/Application1.build/Debug/Application1.build/Objects-normal/i386/main.o
+x/Users/rodrigolazoti/Projects/Screencasts/Application1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/rodrigolazoti/Projects/Screencasts/Application1/main.m279073625#279073626#0(0"0(0#0#61"/Users/rodrigolazoti/Projects/Screencasts/Application1/main.m4300885448#1072"    cd /Users/rodrigolazoti/Projects/Screencasts/Application1    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.5.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -I/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Application1.build/Debug/Application1.build/Application1.hmap -F/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug -I/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/include -I/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Application1.build/Debug/Application1.build/DerivedSources/i386 -I/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Application1.build/Debug/Application1.build/DerivedSources -c /Users/rodrigolazoti/Projects/Screencasts/Application1/main.m -o /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Application1.build/Debug/Application1.build/Objects-normal/i386/main.o0#
+
+CCopyStringsFile /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s279073625.241114
+e279073625.587149
+r1
+xCopyStringsFile
+x/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings279073625#279073625#0(0"0(0#0#86"/Users/rodrigolazoti/Projects/Screencasts/Application1/English.lproj/InfoPlist.strings4300885448#403"    cd /Users/rodrigolazoti/Projects/Screencasts/Application1    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Resources/English.lproj0#
+
+CCpResource build/Debug/Application1.app/Contents/Resources/MainView.rb MainView.rb
+s279073625.449479
+e279073625.531695
+r1
+xCpResource
+xbuild/Debug/Application1.app/Contents/Resources/MainView.rb
+xMainView.rb
+lSLF07#2@16"Copy MainView.rb279073625#279073625#0(0"0(0#0#66"/Users/rodrigolazoti/Projects/Screencasts/Application1/MainView.rb4300885448#380"    cd /Users/rodrigolazoti/Projects/Screencasts/Application1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/rodrigolazoti/Projects/Screencasts/Application1/MainView.rb /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Resources0#
+
+CCpResource build/Debug/Application1.app/Contents/Resources/PasswordGenerator.rb PasswordGenerator.rb
+s279073625.447687
+e279073625.531492
+r1
+xCpResource
+xbuild/Debug/Application1.app/Contents/Resources/PasswordGenerator.rb
+xPasswordGenerator.rb
+lSLF07#2@25"Copy PasswordGenerator.rb279073625#279073625#0(0"0(0#0#75"/Users/rodrigolazoti/Projects/Screencasts/Application1/PasswordGenerator.rb4300885448#389"    cd /Users/rodrigolazoti/Projects/Screencasts/Application1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/rodrigolazoti/Projects/Screencasts/Application1/PasswordGenerator.rb /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Resources0#
+
+CCpResource build/Debug/Application1.app/Contents/Resources/rb_main.rb rb_main.rb
+s279073625.446783
+e279073625.533101
+r1
+xCpResource
+xbuild/Debug/Application1.app/Contents/Resources/rb_main.rb
+xrb_main.rb
+lSLF07#2@15"Copy rb_main.rb279073625#279073625#0(0"0(0#0#65"/Users/rodrigolazoti/Projects/Screencasts/Application1/rb_main.rb4300885448#379"    cd /Users/rodrigolazoti/Projects/Screencasts/Application1    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/rodrigolazoti/Projects/Screencasts/Application1/rb_main.rb /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Resources0#
+
+CLd /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/MacOS/Application1 normal i386
+s279073626.250903
+e279073626.278806
+r1
+xLd
+x/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/MacOS/Application1
+xnormal
+xi386
+lSLF07#2@116"Link /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/MacOS/Application1279073626#279073626#0(0"0(0#0#0"4300885448#664"    cd /Users/rodrigolazoti/Projects/Screencasts/Application1    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.5.sdk -L/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug -F/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug -filelist /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Application1.build/Debug/Application1.build/Objects-normal/i386/Application1.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -framework RubyCocoa -o /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/MacOS/Application10#
+
+CProcessInfoPlistFile /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Info.plist Info.plist
+s279073625.236259
+e279073625.240064
+r1
+xProcessInfoPlistFile
+x/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Info.plist
+xInfo.plist
+lSLF07#2@18"Process Info.plist279073625#279073625#0(0"0(0#0#65"/Users/rodrigolazoti/Projects/Screencasts/Application1/Info.plist4300885448#360"    cd /Users/rodrigolazoti/Projects/Screencasts/Application1    builtin-infoPlistUtility Info.plist -genpkginfo /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Info.plist0#
+
+CStripNIB /Users/rodrigolazoti/Projects/Screencasts/Application1/English.lproj/MainMenu.nib
+s279073625.240163
+e279073625.446689
+r1
+xStripNIB
+x/Users/rodrigolazoti/Projects/Screencasts/Application1/English.lproj/MainMenu.nib
+lSLF07#2@35"StripNIB English.lproj/MainMenu.nib279073625#279073625#0(0"0(0#0#81"/Users/rodrigolazoti/Projects/Screencasts/Application1/English.lproj/MainMenu.nib4300885448#348"    cd /Users/rodrigolazoti/Projects/Screencasts/Application1    /Developer/usr/bin/ibtool --strip /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app/Contents/Resources/English.lproj/MainMenu.nib --output-format human-readable-text /Users/rodrigolazoti/Projects/Screencasts/Application1/English.lproj/MainMenu.nib0#
+
+CTouch /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app
+s279073626.278912
+e279073626.284426
+r1
+xTouch
+x/Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app
+lSLF07#2@89"Touch /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app279073626#279073626#0(0"0(0#0#0"4300885448#168"    cd /Users/rodrigolazoti/Projects/Screencasts/Application1    /usr/bin/touch -c /Users/rodrigolazoti/Projects/Screencasts/Application1/build/Debug/Application1.app0#
+

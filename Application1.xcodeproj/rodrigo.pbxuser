@@ -1,0 +1,139 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5B20141B1046B41800E10E25 /* Application1 */;
+		activeTarget = 4DDCA7030ACC9A6100E082CE /* Application1 */;
+		addToTargets = (
+			4DDCA7030ACC9A6100E082CE /* Application1 */,
+		);
+		codeSenseManager = 5B20142A1046B43400E10E25 /* Code sense */;
+		executables = (
+			5B20141B1046B41800E10E25 /* Application1 */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 273069080;
+			PBXWorkspaceStateSaveDate = 273069080;
+		};
+		perUserProjectItems = {
+			5B20143A1046B7A500E10E25 /* PBXTextBookmark */ = 5B20143A1046B7A500E10E25 /* PBXTextBookmark */;
+			5B20143B1046B7A500E10E25 /* PBXBookmark */ = 5B20143B1046B7A500E10E25 /* PBXBookmark */;
+			5B20143C1046B7A500E10E25 /* PBXTextBookmark */ = 5B20143C1046B7A500E10E25 /* PBXTextBookmark */;
+			5B20143D1046B7A500E10E25 /* PBXTextBookmark */ = 5B20143D1046B7A500E10E25 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5B2014291046B43400E10E25 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	4DDCA7030ACC9A6100E082CE /* Application1 */ = {
+		activeExec = 0;
+		executables = (
+			5B20141B1046B41800E10E25 /* Application1 */,
+		);
+	};
+	5B20141B1046B41800E10E25 /* Application1 */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Application1;
+		sourceDirectories = (
+		);
+	};
+	5B2014271046B43300E10E25 /* PasswordGenerator.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 417}}";
+			sepNavSelRange = "{383, 0}";
+			sepNavVisRange = "{0, 388}";
+		};
+	};
+	5B2014291046B43400E10E25 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	5B20142A1046B43400E10E25 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5B20142D1046B53700E10E25 /* MainView.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 417}}";
+			sepNavSelRange = "{189, 0}";
+			sepNavVisRange = "{0, 204}";
+		};
+	};
+	5B20143A1046B7A500E10E25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B2014271046B43300E10E25 /* PasswordGenerator.rb */;
+		name = "PasswordGenerator.rb: 15";
+		rLen = 0;
+		rLoc = 383;
+		rType = 0;
+		vrLen = 388;
+		vrLoc = 0;
+	};
+	5B20143B1046B7A500E10E25 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 5B20142D1046B53700E10E25 /* MainView.rb */;
+	};
+	5B20143C1046B7A500E10E25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B2014271046B43300E10E25 /* PasswordGenerator.rb */;
+		name = "PasswordGenerator.rb: 15";
+		rLen = 0;
+		rLoc = 383;
+		rType = 0;
+		vrLen = 388;
+		vrLoc = 0;
+	};
+	5B20143D1046B7A500E10E25 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5B20142D1046B53700E10E25 /* MainView.rb */;
+		name = "MainView.rb: 7";
+		rLen = 0;
+		rLoc = 189;
+		rType = 0;
+		vrLen = 204;
+		vrLoc = 0;
+	};
+}
